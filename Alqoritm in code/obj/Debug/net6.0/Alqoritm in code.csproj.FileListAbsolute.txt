@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\bin\Debug\net6.0\Alqoritm in code.exe
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\bin\Debug\net6.0\Alqoritm in code.deps.json
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\bin\Debug\net6.0\Alqoritm in code.runtimeconfig.json
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\bin\Debug\net6.0\Alqoritm in code.dll
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\bin\Debug\net6.0\Alqoritm in code.pdb
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.AssemblyInfo.cs
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.dll
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\refint\Alqoritm in code.dll
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.pdb
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\Alqoritm in code.genruntimeconfig.cache
+C:\Users\user\source\repos\Alqoritm in code\Alqoritm in code\obj\Debug\net6.0\ref\Alqoritm in code.dll
